@@ -15,6 +15,10 @@
     "npm": "5.6.0"
   },
   "dependencies": {
+    "appmetrics-dash": "^3.3.2",
+    "appmetrics-prometheus": "^0.0.2",
+    "log4js": "^1.1.1",
+    "ibm-cloud-env": "^0",
     "bower": "1.8.4",
     "body-parser": "1.13.2",
     "cfenv": "1.0.0",
